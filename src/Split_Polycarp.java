@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Split_Polycarp {
@@ -8,8 +7,6 @@ public class Split_Polycarp {
         int num = sc.nextInt();
         String enc = sc.next();
 
-
-//        String enc = "110111001";
 
         String[] Digit = enc.split("0");
 
